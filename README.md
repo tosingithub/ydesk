@@ -6,7 +6,7 @@ This is an ongoing work. More details to come soon.
 All codes, data and models are released under CCBY 4.0.
 
 <h4>Yorùbá Wiki:</h4>
-<a href="https://github.com/tosingithub/ydesk">Yorùbá Wikipedia dump 2020</a>
+<a href="https://github.com/tosingithub/ydesk/blob/master/yowiki20.zip">Yorùbá Wikipedia dump 2020</a>
 
 <h4>How do I cite?</h4>
 Please cite our upcoming paper (soon given below) if you use any of the data, codes or models.
