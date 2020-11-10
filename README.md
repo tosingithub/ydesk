@@ -1,6 +1,6 @@
-# Yorùbá Embeddings for NLP
+# The Challenge of Diacritics in Yorùbá Embeddings
 <h4>NOTE:</h4>
-This is an ongoing work. More details to come soon.
+The paper with this title was accepted for presentation at NeurIPS 2020 ML4D Workshop
 
 <h4>License:</h4>
 All codes, data and models are released under CCBY 4.0.
