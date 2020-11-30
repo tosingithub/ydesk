@@ -3,7 +3,7 @@
 This paper was accepted for presentation at NeurIPS 2020 ML4D Workshop
 
 <h4>License:</h4>
-All codes, data and models are released under CCBY 4.0.
+All codes, data and models are released under CCBY 4.0. The word2vec embedding from the undiacritized Wiki data can be downloaded <a href="https://drive.google.com/file/d/1SD-G-uWqBT8VMWBqS5M3hCwUx8tfIYPA/view?usp=sharing">here</a>.
 
 <h4>How do I cite?</h4>
 Please cite the NeurIPS 2020 ML4D paper:
